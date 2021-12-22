@@ -1,4 +1,4 @@
-# Playground Functions
+# Playground Functions :runner:
 
 Este projeto foi desenvolvido durante o curso de desenvolvimento web da [Trybe](https://www.betrybe.com/).
 
@@ -9,6 +9,7 @@ São pequenos desafios para testar as habilidades com Javascript.
 
 ### Principais tecnologias utilizadas:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ### Habilidades Desenvolvidas: 
 
